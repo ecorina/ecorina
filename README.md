@@ -18,7 +18,7 @@ Fun Fact: I got into coding by creating a Valentine's Day digital card. What sta
 
 Fact about me that surprises people: I'm an introvert but I act like an extrovert.(INTP-A)
 
-### Pojects:
+## Pojects:
 
 ●[Chitter-challenge](https://github.com/ecorina/Public-Chitter-app):
 
