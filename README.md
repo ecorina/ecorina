@@ -1,6 +1,6 @@
 #### Oh, you've made it! You must be quite an adventurer to wander into my enigmatic repositories...
 
-<img align="right" alt="gitCat" width="80px" style="padding-right:10px;" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/358/original/41e1abdb875258e4b761a29953679da1.jpeg?1689618023"/>
+<img align="right" alt="gitCat" width="160px" style="padding-right:10px;" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/362/original/Daco_4646203.png?1689618847"/>
 
 **'Hi 🙋🏻‍♀️ I'm Corina, junior software developer creating my own version of digital world step by step'**
 
