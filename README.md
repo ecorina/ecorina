@@ -15,19 +15,11 @@ Fun Fact: I got into coding by creating a Valentine's Day digital card. What sta
 
 Fact about me that surprises people: I'm an introvert but I act like an extrovert.(INTP-A)
 
+###Get in touch:
+
 ## Languages and Tools
 
-<img align="left" width="30px" alt="personality" style="padding-right:10px" src="https://media.licdn.com/dms/image/C4E0BAQEHRfnOLgpl7g/company-logo_200_200/0/1519881942035?e=1697673600&v=beta&t=u35u2XVCnmhu0Br_3YwJordmUpu7MnFT6teuqEtVZ6w"/>
-
-<img align="left" width="30px" alt="personality" style="padding-right:10px" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/367/original/Daco_5348556.png?1689620638"/>
-
-<img align="left" width="30px" alt="personality" style="padding-right:10px" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/366/original/Daco_4672818.png?1689620631"/>
-
-<img align="left" width="30px" alt="personality" style="padding-right:10px" src="https://media.licdn.com/dms/image/C560BAQGy6HfZ0i7mlA/company-logo_200_200/0/1628861565317?e=1697673600&v=beta&t=T_4M3AZu4BDtNztOcfHRVqOl9ihPh0ye-PAZ40KXboo"/>
-
-<img align="left" width="30px" alt="personality" style="padding-right:10px" src="https://media.licdn.com/dms/image/C4D0BAQFKe8PwqzyHyA/company-logo_200_200/0/1635171226731?e=1697673600&v=beta&t=qCLLgomRlGLGd_FPTPnzmgyWCHiP_-HZeeiC7v0kWz4"/>
-
-<img align="left" width="30px" alt="personality" style="padding-right:10px" src="https://media.licdn.com/dms/image/C560BAQH0EKHvb6xgHQ/company-logo_200_200/0/1554953142515?e=1697673600&v=beta&t=bZipE8tgBYtErZ0wWK7_R8wjAiDTmqING0ypQ_vpVLQ"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 
 <!--
 **ecorina/ecorina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
