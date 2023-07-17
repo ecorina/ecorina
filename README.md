@@ -2,8 +2,6 @@
 
 **Junior Software Developer**
 
-<br/>
-
 ## About Me:
 
 <br/>
