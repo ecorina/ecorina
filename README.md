@@ -3,9 +3,10 @@
 **Junior Software Developer**
 
 <br/>
-<br/>
 
 ### About Me:
+
+<br/>
 
 <img align="left" width="300px" alt="personality" style="padding-right:20px" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/370/original/pngegg.png?1689621386"/>
 
