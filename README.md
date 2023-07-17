@@ -20,29 +20,25 @@ Fact about me that surprises people: I'm an introvert but I act like an extrover
 
 ### Pojects:
 
-[Chitter-challenge](https://github.com/ecorina/Public-Chitter-app):
-● Chitter is a small Twitter clone that allows users to post messages called "peeps" to a public wall, where they can share updates and thoughts with others. I developed this application to showcase my skills in web development and backend technologies.
+●[Chitter-challenge](https://github.com/ecorina/Public-Chitter-app):
 
-● Frontend: React, React Router, Bootstrap (v5.3.0-alpha1)
-
-● Backend: Node.js, Express.js, MongoDB (Mongoose)
+Chitter is a small Twitter clone that allows users to post messages called "peeps" to a public wall, where they can share updates and thoughts with others. I developed this application to showcase my skills in web development and backend technologies.
+Frontend: React, React Router, Bootstrap (v5.3.0-alpha1)
+Backend: Node.js, Express.js, MongoDB (Mongoose)
 Others: Axios (for API calls).
 
-[News-Challenge](https://github.com/ecorina/News-challenge-Public):
-● I test-drove the development of a single-page application using React, which fetches data from The Guardian API to display headlines and articles. The goal was to create a user-friendly platform to access today's top news stories and get in-depth information on important articles.
+●[News-Challenge](https://github.com/ecorina/News-challenge-Public):
 
-● Frontend: React, JavaScript, HTML, CSS
+I test-drove the development of a single-page application using React, which fetches data from The Guardian API to display headlines and articles. The goal was to create a user-friendly platform to access today's top news stories and get in-depth information on important articles.
+Frontend: React, JavaScript, HTML, CSS
+Backend: The Guardian API for fetching news headlines and articles
+Testing: Jest and React Testing Library for test-driven development
 
-● Backend: The Guardian API for fetching news headlines and articles
+●[Weather-app](https://github.com/ecorina/vanilla-weather-app):
 
-● Testing: Jest and React Testing Library for test-driven development
-
-[Weather-app](https://github.com/ecorina/vanilla-weather-app):
-● Weather App is a user-friendly and responsive weather application developed using HTML, CSS, and JavaScript. Its primary functionality is to provide real-time weather information based on user input for a specific city. The app utilizes an API to fetch weather data and displays it in a visually appealing and informative manner.
-
-● HTML, CSS, JavaScript, API, Bootstrap.
-
-● The Vanilla Weather App showcases my skills in front-end web development, including HTML, CSS, and JavaScript. It demonstrates my ability to integrate external APIs and create interactive and dynamic web applications.
+Weather App is a user-friendly and responsive weather application developed using HTML, CSS, and JavaScript. Its primary functionality is to provide real-time weather information based on user input for a specific city. The app utilizes an API to fetch weather data and displays it in a visually appealing and informative manner.
+HTML, CSS, JavaScript, API, Bootstrap.
+The Vanilla Weather App showcases my skills in front-end web development, including HTML, CSS, and JavaScript. It demonstrates my ability to integrate external APIs and create interactive and dynamic web applications.
 It highlights my proficiency in using Bootstrap to enhance the visual appeal and responsiveness of the user interface.
 
 ### Contact:
