@@ -1,4 +1,4 @@
-#### Oh, you've made it! You must be quite an adventurer to wander into my enigmatic repositories... ####😉😉
+#### Oh, you've made it! You must be quite an adventurer to wander into my enigmatic repositories...😉
 
 **Junior Software Developer**
 
