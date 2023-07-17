@@ -11,7 +11,7 @@ Hi 🙋🏻‍♀️ I'm Corina, junior software developer creating my own versi
 
 In my spare time I play Squash, go rollerblading long distances (or at least this is what my Strava app says 😅),I like to paint and I bake the most delicios sponge cakes 🥰.
 
-Fun Fact: I've got into coding by creating a Valentine's day digital card. What started as a gesture of affection turned into a captivating path of discovery and learning.
+Fun Fact: I got into coding by creating a Valentine's Day digital card. What started as a simple gesture of affection turned into a captivating journey of discovery and learning.
 
 Fact about me that surprises people: I'm an introvert but I act like an extrovert.(INTP-A)
 
