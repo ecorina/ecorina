@@ -12,7 +12,13 @@ And from that moment on, a new journey began! Problem-solving became my happy ga
 
 So, my dear friends, if you can't find me sometimes, fear not! I'm just lost in this fantastical world of coding, where every bug I catch is like catching a mischievous pixie, and every code I write is like weaving a spell. It's fun, it's wild, and it's a world where imagination runs wild with joy! 🧙‍♀️🌈
 
-### Languages and tools
+## Languages and tools
+
+<img align="right" alt="gitCat" width="30px" style="padding-right:30px;" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/367/original/Daco_5348556.png?1689620638"/>
+
+<img align="right" alt="gitCat" width="35px" style="padding-right:30px;" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/366/original/Daco_4672818.png?1689620631"/>
+
+<img align="right" alt="gitCat" width="35px" style="padding-right:30px;" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/368/original/Daco_6073002.png?1689620645"/>
 
 <!--
 **ecorina/ecorina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
