@@ -20,8 +20,7 @@ So, my dear friends, if you can't find me sometimes, fear not! I'm just lost in 
 
 <img align="left" alt="gitCat" width="35px" style="padding-right:30px;" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/368/original/Daco_6073002.png?1689620645"/>
 
-<img align="left" alt="gitCat" width="35px" style="padding-right:30px;" src="
-https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/369/original/Daco_4792623.png?1689620759"/>
+<img align="left" alt="gitCat" width="35px" style="padding-right:30px;" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/369/original/Daco_4792623.png?1689620759"/>
 
 <!--
 **ecorina/ecorina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
