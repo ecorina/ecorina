@@ -15,7 +15,9 @@ Fun Fact: I got into coding by creating a Valentine's Day digital card. What sta
 
 Fact about me that surprises people: I'm an introvert but I act like an extrovert.(INTP-A)
 
-###Get in touch:
+### Get in touch:
+
+[<italic>Linkedin<italic>](https://www.linkedin.com/in/ecorinaserban/)
 
 ## Languages and Tools
 
