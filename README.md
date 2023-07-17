@@ -32,7 +32,7 @@ Others: Axios (for API calls).
 ● Backend: The Guardian API for fetching news headlines and articles
 ● Testing: Jest and React Testing Library for test-driven development
 
-[Weather-app]|(https://github.com/ecorina/vanilla-weather-app):
+[Weather-app](https://github.com/ecorina/vanilla-weather-app):
 ● Weather App is a user-friendly and responsive weather application developed using HTML, CSS, and JavaScript. Its primary functionality is to provide real-time weather information based on user input for a specific city. The app utilizes an API to fetch weather data and displays it in a visually appealing and informative manner.
 ● HTML, CSS, JavaScript, API, Bootstrap.
 ● The Vanilla Weather App showcases my skills in front-end web development, including HTML, CSS, and JavaScript. It demonstrates my ability to integrate external APIs and create interactive and dynamic web applications.
