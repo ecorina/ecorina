@@ -12,6 +12,8 @@ Hi 🙋🏻‍♀️ I'm Corina, a junior software developer creating my own ver
 
 Fun Fact: I got into coding by creating a Valentine's Day digital card. What started as a simple gesture of affection turned into a captivating journey of discovery and learning.
 
+<br/>
+
 Fact about me that surprises people: I'm an introvert but I act like an extrovert.(INTP-A)
 
 ## Pojects:
