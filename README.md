@@ -1,6 +1,6 @@
 #### Oh, you've made it! You must be quite an adventurer to wander into my enigmatic repositories...😉
 
-**Junior Software Developer**
+****
 
 ## About Me:
 
@@ -8,13 +8,9 @@
 
 <img align="left" width="300px" alt="personality" style="padding-right:20px" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/090/370/original/pngegg.png?1689621386"/>
 
-Hi 🙋🏻‍♀️ I'm Corina, a junior software developer creating my own version of a digital world step by step. I love technology and I am always eager to learn new things. I enjoy solving problems and I am good at organizing projects. I'm adaptable, motivated, resourceful and I have a curious mind. I believe in doing my best to make a positive impact in the world of technology.
-
-Fun Fact: I got into coding by creating a Valentine's Day digital card. What started as a simple gesture of affection turned into a captivating journey of discovery and learning.
 
 <br/>
 
-Fact about me that surprises people: I'm an introvert but I act like an extrovert.(INTP-A)
 
 ## Pojects:
 
