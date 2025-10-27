@@ -12,7 +12,7 @@
 <br/>
 
 
-## Pojects:
+## Projects:
 
 ●[Chitter-challenge](https://github.com/ecorina/Public-Chitter-app):
 
